@@ -1,5 +1,5 @@
 # EX 3A Knight Tour & Count Path
-## DATE: 11/04/2025
+## DATE: 
 ## AIM:
 To write a python program to find minimum steps to reach to specific cell in minimum moves by knight
 
@@ -16,7 +16,7 @@ To write a python program to find minimum steps to reach to specific cell in min
    
 ## Program:
 #### Program to implement to find minimum steps to reach to specific cell in minimum moves by knight.
-#### Developed by: Abishek Xavier A
+#### Developed by: Srinidhi P
 #### Register Number: 212222230004
 
 ```PY
